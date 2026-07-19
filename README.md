@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>## 👋 Hi there, I'm Aaqib Sadik<br><br>I'm a dedicated MERN Stack Developer with a passion for creating efficient, scalable web applications. With experience in leading development teams and managing complex projects, I specialize in backend architecture, RESTful API development, and building seamless user experiences.<br><br>*   🌍 **Location:** Ahmednagar, Maharashtra<br>*  
+Hi there, I'm Aaqib Shaikh.....<br><br>I'm a dedicated MERN Stack Developer with a passion for creating efficient, scalable web applications. With experience in leading development teams and managing complex projects, I specialize in backend architecture, RESTful API development, and building seamless user experiences.
 
 
 ## 🌐 Socials:
